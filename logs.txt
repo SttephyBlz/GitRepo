@@ -1,0 +1,29 @@
+commit 8b740eda2419b770e86b73d1a55a0c5dadcbaf50
+Author: Stephany Bacelis <sttephyblz@gmail.com>
+Date:   Tue Jul 4 09:51:39 2017 -0600
+
+    Se agrego bootstrap
+
+commit 5f64a51bbdb95877f8cb1fd9cae673b30ced9925
+Author: Stephany Bacelis <sttephyblz@gmail.com>
+Date:   Tue Jul 4 09:49:04 2017 -0600
+
+    Se agrego footer
+
+commit f7a2163dd8d46e762c6bf94c274e3f54d3e4ca0f
+Author: Stephany Bacelis <sttephyblz@gmail.com>
+Date:   Tue Jul 4 09:45:02 2017 -0600
+
+    Se agrego imagen y descripcion de la pagina
+
+commit 042dc835989dde971bfb6e365d15158304882fc6
+Author: Stephany Bacelis <sttephyblz@gmail.com>
+Date:   Tue Jul 4 09:41:04 2017 -0600
+
+    Se agrego titulo de la pagina
+
+commit 42e890158ed8a3dfb9f4016e3cafd781a9952f13
+Author: Stephany Bacelis <sttephyblz@gmail.com>
+Date:   Tue Jul 4 09:36:13 2017 -0600
+
+    Proyecto con estructura inicial

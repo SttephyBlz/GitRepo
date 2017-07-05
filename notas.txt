@@ -1,0 +1,3 @@
+git log>logs.txt  <- exportar los logs
+git checkout <ID commit>
+git checkout master
